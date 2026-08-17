@@ -16,3 +16,4 @@ jobs:
         gardenlinux/package-libnet-ssleay-perl 1.94-3gl0+bp1877
         gardenlinux/package-libparams-classify-perl 0.015-2gl0+bp1877
         gardenlinux/package-libdevel-callchecker-perl 0.009-2gl0+bp1877
+        gardenlinux/package-libb-hooks-op-check-perl 0.22-3gl0+bp1877
